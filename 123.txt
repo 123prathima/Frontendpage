@@ -1,1 +1,3 @@
 Hello,
+
+https://update.code.visualstudio.com/1.70.2/win32-arm64-user/stable
